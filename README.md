@@ -18,7 +18,7 @@ Northstar Focus is a native Android project built with Gradle and Jetpack Compos
 ## Run in Android Studio
 
 1. Open Android Studio.
-2. Choose `Open` and select [C:\Users\INK\Desktop\DevOps Mobile](</C:/Users/INK/Desktop/DevOps Mobile>).
+2. Choose `Open` and select the project folder you cloned or downloaded, such as `northstar-focus`.
 3. Wait for Gradle Sync to finish.
 4. Open `Device Manager` and start an emulator, or connect an Android phone with USB debugging enabled.
 5. Make sure the `app` run configuration is selected in the top toolbar.
@@ -26,7 +26,7 @@ Northstar Focus is a native Android project built with Gradle and Jetpack Compos
 
 ## Run from the command line
 
-1. Open PowerShell in [C:\Users\INK\Desktop\DevOps Mobile](</C:/Users/INK/Desktop/DevOps Mobile>).
+1. Open PowerShell in the project folder.
 2. Build the app:
 
 ```powershell
@@ -49,10 +49,10 @@ cd northstar-focus
 
 ## Project Structure
 
-- [app](</C:/Users/INK/Desktop/DevOps Mobile/app>) contains the Android application code
-- [NorthstarApp.kt](</C:/Users/INK/Desktop/DevOps Mobile/app/src/main/java/com/ink/northstarfocus/NorthstarApp.kt>) contains the main Compose screens and app logic
-- [MainActivity.kt](</C:/Users/INK/Desktop/DevOps Mobile/app/src/main/java/com/ink/northstarfocus/MainActivity.kt>) launches the app
-- [build.gradle.kts](</C:/Users/INK/Desktop/DevOps Mobile/build.gradle.kts>) and [app/build.gradle.kts](</C:/Users/INK/Desktop/DevOps Mobile/app/build.gradle.kts>) define the Gradle build setup
+- `app/` contains the Android application code
+- `app/src/main/java/com/ink/northstarfocus/NorthstarApp.kt` contains the main Compose screens and app logic
+- `app/src/main/java/com/ink/northstarfocus/MainActivity.kt` launches the app
+- `build.gradle.kts` and `app/build.gradle.kts` define the Gradle build setup
 
 ## Notes
 
