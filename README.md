@@ -60,6 +60,6 @@ cd northstar-focus
 - `LazyColumn` is used as the list-based information display component.
 - If the emulator opens to a black screen, wake it with the emulator power button or do a cold boot from Android Studio Device Manager.
 
-  ## Video
+## Video
 
-  https://lut-my.sharepoint.com/:v:/g/personal/sufian_sunjed_student_lut_fi/IQCofsIcL6YkR7M9XB-Cvz5JAdt7Ej_1qO1OK4W6Jzd3RxY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hEUpqw
+https://lut-my.sharepoint.com/:v:/g/personal/sufian_sunjed_student_lut_fi/IQCofsIcL6YkR7M9XB-Cvz5JAdt7Ej_1qO1OK4W6Jzd3RxY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hEUpqw
